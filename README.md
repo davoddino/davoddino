@@ -1,40 +1,40 @@
-# 👋 Ciao, sono David Cavada
+# 👋 Hi, I'm David Cavada
 
-🎓 **Studente di Informatica** all'Università di Verona, appassionato di tecnologia, musica e creatività. Il mio lavoro spazia dalla programmazione all'editing video, dalla produzione musicale alla promozione della salute. Mi piace esplorare nuove idee e progetti, con l’obiettivo di fare la differenza in ogni campo in cui mi immergo.
+🎓 **Computer Science Student** at the University of Verona, passionate about technology, music, and creativity. My work spans from programming to video editing, music production, and promoting health. I love exploring new ideas and projects, with the goal of making a difference in every field I dive into.
 
-## Sito Web 
+## Website
 👉 [David's Website](https://davoddino.github.io)
 
 ---
 
-## 🌟 Competenze e Interessi
+## 🌟 Skills and Interests
 
-- 💻 **Informatica e Programmazione**: Lavoro su progetti innovativi e sviluppo software per migliorare esperienze e processi. Attualmente sto esplorando il machine learning e tecnologie sostenibili per la mia tesi sul turismo sostenibile.
-- 🎥 **Produzione Video e Editing**: Creazione di contenuti video di alta qualità utilizzando Da Vinci Resolve e droni per riprese mozzafiato.
-- 🎶 **Produzione Musicale**: Compositore, cantante e produttore di brani originali su [Spotify](https://open.spotify.com/intl-it/artist/5gTU0lzJr7CIOP44O8vZRn), dove sperimento generi e stili diversi.
-- 💪 **Salute e Benessere**: Fondatore di [Birkengym](https://www.instagram.com/birkengym), una community dedicata alla promozione del benessere fisico attraverso allenamenti e contenuti motivazionali.
-- 🌍 **Innovazione e Sostenibilità**: Sviluppo di soluzioni per la gestione sostenibile del turismo, focalizzandomi su modelli predittivi e distribuzione equa dei turisti.
-
----
-
-## 🚀 Progetti Attuali
-- **Tesi di Laurea**: Sto sviluppando una tesi sul turismo sostenibile, sfruttando machine learning e modelli probabilistici per ridurre il sovraffollamento nelle aree turistiche.
-- **Birkengym**: Espansione della community con contenuti freschi e allenamenti per motivare e ispirare uno stile di vita sano.
-- **Produzione Musicale**: Nuove canzoni in arrivo! Segui i miei aggiornamenti su [Spotify](https://open.spotify.com/intl-it/artist/5gTU0lzJr7CIOP44O8vZRn) per ascoltare i miei ultimi brani.
+- 💻 **Computer Science and Programming**: I work on innovative projects and develop software to improve experiences and processes. Currently exploring machine learning and sustainable technologies for my thesis on sustainable tourism.
+- 🎥 **Video Production and Editing**: Creating high-quality video content using Da Vinci Resolve and drones for breathtaking shots.
+- 🎶 **Music Production**: Composer, singer, and producer of original tracks on [Spotify](https://open.spotify.com/intl-it/artist/5gTU0lzJr7CIOP44O8vZRn), where I experiment with different genres and styles.
+- 💪 **Health and Wellness**: Founder of [Birkengym](https://www.instagram.com/birkengym), a community dedicated to promoting physical well-being through workouts and motivational content.
+- 🌍 **Innovation and Sustainability**: Developing solutions for sustainable tourism management, focusing on predictive models and equitable distribution of tourists.
 
 ---
 
-## 📫 Connettiti con Me
+## 🚀 Current Projects
+- **Thesis**: I am working on a thesis about sustainable tourism, leveraging machine learning and probabilistic models to reduce overcrowding in tourist areas.
+- **Birkengym**: Expanding the community with fresh content and workouts to motivate and inspire a healthy lifestyle.
+- **Music Production**: New songs coming soon! Follow my updates on [Spotify](https://open.spotify.com/intl-it/artist/5gTU0lzJr7CIOP44O8vZRn) to listen to my latest tracks.
+
+---
+
+## 📫 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/david-cavada-b64657218/)
 - 🎧 [Spotify](https://open.spotify.com/intl-it/artist/5gTU0lzJr7CIOP44O8vZRn)
 - 📸 [Instagram - Birkengym](https://www.instagram.com/birkengym)
-- 📸 [Instagram - Personale](https://www.instagram.com/david.cavada/)
+- 📸 [Instagram - Personal](https://www.instagram.com/david.cavada/)
 
 ---
 
-✨ Sono sempre aperto a nuove collaborazioni e idee innovative. Sogno di creare qualcosa che possa lasciare un segno positivo e duraturo!
+✨ I'm always open to new collaborations and innovative ideas. I dream of creating something that can leave a positive and lasting impact!
 
 ---
 
-⭐ **Grazie per aver visitato il mio profilo GitHub!**
+⭐ **Thanks for visiting my GitHub profile!**
